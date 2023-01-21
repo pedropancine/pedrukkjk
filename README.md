@@ -1,6 +1,6 @@
 ### Hello! My name is Pedro Pancine
 
-- Just a student in Brazil developing the future
+- 👨‍💻 Just a student in Brazil developing the future
 - 🧮 Interessing in Data Science
 - 💻 Learning Python 🐍 and R 🦉
 

@@ -4,5 +4,5 @@
 - 🧮 Interested in Data Science applied to the agricultural area.
 - 💻 Learning Python 🐍 (for automations) and R 🦉 (for data analysis).
 
-- 🔭 You can contact me through in Discord (pedrupvl) and [Linkedin](https://www.linkedin.com/in/pedro-pancine-249068260/).
+- 🔭 You can contact me through in email: pedropancine07@gmail.com.
 
